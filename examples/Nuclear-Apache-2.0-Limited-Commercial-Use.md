@@ -122,7 +122,7 @@ The Library is provided "AS IS" and without warranty of any kind. Licensor shall
 
 ## Governing Law
 
-This Agreement shall be governed by and construed in accordance with the laws of a jurisdiction selected at the sole discretion of the Licensor. In the absence of a choice by the Licensor, the laws of Malaysia shall apply.
+This Agreement shall be governed by and construed in accordance with the laws of a jurisdiction selected at the sole discretion of the Licensor. In the absence of a choice by the Licensor, the laws of [Your Choice Of Country] shall apply.
 
 ## Changes to Terms and Conditions
 
